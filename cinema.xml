@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movies xmlns="https://www.example.com"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="https://www.example.com cinema.xsd">
+  <movie>
+    <name>The Hunger Games</name>
+    <genre>Adventure</genre>
+    <producer>Nina Jacobson</producer>
+    <duration>2h 22m</duration>
+    <reviews>Survival-focused dystopian story with strong lead performance</reviews>
+  </movie>
+</movies>

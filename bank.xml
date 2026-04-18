@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bank xmlns="https://www.example.com"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="https://www.example.com bank.xsd">
+
+  <nameOfBank>BPI</nameOfBank>
+  <bankId>PNB-10293</bankId>
+  <name>Jairuz Cortez</name>
+  <balance>30000.75</balance>
+  <maintainingBalance>5000.00</maintainingBalance>
+
+</bank>

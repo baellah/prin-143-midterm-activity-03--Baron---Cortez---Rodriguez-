@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<retail xmlns="https://www.example.com/market"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="https://www.example.com/market retail.xsd">
+
+  <store>
+    <Brand>TechNova</Brand>
+    <Name>Digital Hub Store</Name>
+
+    <products>
+      <product>
+        <Price currency="PHP">12999.50</Price>
+        <stock>25</stock>
+        <ReleaseDate>2026-04-10</ReleaseDate>
+      </product>
+
+    </products>
+  </store>
+
+</retail>

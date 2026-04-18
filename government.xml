@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<politician xmlns="https://www.example.com"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xsi:schemaLocation="https://www.example.com government.xsd">
+
+  <position>Senator</position>
+  <name>Maria Clara Santos</name>
+  <age>45</age>
+  <partylist>Progressive Alliance</partylist>
+
+  <achievements>
+    <achievement>Passed education reform law</achievement>
+    <achievement>Led healthcare accessibility program</achievement>
+    <achievement>Strengthened anti-corruption policies</achievement>
+  </achievements>
+
+</politician>

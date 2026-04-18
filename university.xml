@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<university xmlns="https://www.example.com/university"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xsi:schemaLocation="https://www.example.com/university university.xsd">
+
+  <Department>
+    <name>AMT</name>
+    <course>BSIT</course>
+
+    <student>
+      <name>Jairuz Cortez</name>
+      <StudentId>2024-34849</StudentId>
+      <year>2</year>
+    </student>
+
+  </Department>
+
+</university>
